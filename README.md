@@ -1,6 +1,8 @@
-# Myn2o
+# ANGULAR HIGHLY SCALEABLE PROJECT STRUCTURE
+- includes bootstrap and font awesome
+- Structure can be expanded with ease
+- Run npm install and then ng serve and you're good to go
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
 
 ## Development server
 
